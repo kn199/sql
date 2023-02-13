@@ -1,3 +1,2 @@
-rbenv local 3.1.2
-gem install ruby-mysql -v 2.9.14
+gem install ruby-mysql
 gem install dotenv
