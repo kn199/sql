@@ -1,2 +1,4 @@
 gem install ruby-mysql
 gem install dotenv
+
+ruby pra.rb
